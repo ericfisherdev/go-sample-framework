@@ -19,3 +19,8 @@ vendor/
 
 # Go workspace file
 go.work
+/.idea/go-sample-framework.iml
+/.idea/modules.xml
+/.idea/vcs.xml
+/.idea/.gitignore
+/go.sum
